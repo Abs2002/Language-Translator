@@ -74,4 +74,5 @@ try:
 
 except:
     messagebox.showinfo("Oops!", "Looks like You are not connected to network\nor you network is slow Try Again")
+print("you need to have active internet connection")
 
