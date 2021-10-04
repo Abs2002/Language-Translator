@@ -2,6 +2,7 @@ from tkinter import *
 from tkinter.ttk import *
 from googletrans import Translator
 from tkinter import messagebox
+#download the required packages from interpretor or from pycharm interpretor
 
 try:
     rt=Tk()
